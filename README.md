@@ -1,2 +1,2 @@
 # keeper-site
-Created with CodeSandbox
+Used to add and delete your notes
